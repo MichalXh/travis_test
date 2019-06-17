@@ -7,4 +7,4 @@ def fun():
     print('function')
 
 
-fun2()
+fun()
